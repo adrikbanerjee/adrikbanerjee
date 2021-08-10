@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adrikbanerjee
 - 👀 I’m interested in Tech.
 - 🌱 I’m currently learning Programming.
-- 💞️ I’m looking to collaborate on GH.
-- 📫 How to reach me via e_mail adrikbanerjee@gmail.com
+- 💞️ I’m looking to collaborate.
+- 📫 Reach me via e_mail adrikbanerjee@gmail.com
 
 <!---
 adrikbanerjee/adrikbanerjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
